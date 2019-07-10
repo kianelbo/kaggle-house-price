@@ -1,6 +1,6 @@
-# kaggle-house-price
+# kaggle-house-prices
 My solution for [Kaggle's "House Prices: Advanced Regression Techniques"](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)  
-Best submitted score: **0.11851** (Top 5%)
+Best submitted score: **0.11851**
 
 ## Preprocessing Steps
 * Detecting skew and applying log transform
@@ -18,4 +18,4 @@ Tested models:
 * [SVR](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
 * [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 * [Multi-layer Perceptron](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
-* [Voting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html) of Ridge, ElasticNet and GBR  
+* [Voting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html) of Ridge, ElasticNet and GBR
